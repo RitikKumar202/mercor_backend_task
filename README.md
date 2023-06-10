@@ -32,12 +32,13 @@ Start the server
 
 ```bash
   npm start
+  http://localhost:3000/
 ```
 
 
-## Screenshots
+## Preview
 
-![App Screenshot](https://github.com/RitikKumar202/mercor_backend_task/blob/master/public/screenshots/Screenshot%20(54).png?raw=true)
+![App Screenshot](https://github.com/RitikKumar202/mercor_backend_task/blob/master/public/screenshots/Screenshot%20(63).png?raw=true)
 
 ![App Screenshot](https://github.com/RitikKumar202/mercor_backend_task/blob/master/public/screenshots/Screenshot%20(55).png?raw=true)
 
